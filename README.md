@@ -1,3 +1,3 @@
-ai chat:
+AI chat:
  - server: npm run start
  - frontend: npm run dev
